@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is not a real applicable project it's jsut a practice for a random programer
 
 ## Available Scripts
 
